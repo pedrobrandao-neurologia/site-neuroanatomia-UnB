@@ -171,3 +171,128 @@ a.thumb:hover {
 #cont font[size="2"] { font-size: 14px !important; }
 
 #cont u { text-underline-offset: 2px; }
+
+/* Roteiro das aulas práticas */
+.rot-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0 0 28px;
+  padding: 14px 16px;
+  background: var(--green-soft, #e8f5ef);
+  border: 1px solid var(--green-soft-2, #d6efe1);
+  border-radius: var(--radius-sm, 8px);
+}
+
+.rot-toc a {
+  display: inline-block;
+  padding: 6px 12px;
+  background: #fff;
+  border: 1px solid var(--green-soft-2, #d6efe1);
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--green-darker, #1f5d3e) !important;
+  text-decoration: none !important;
+  transition: background-color 0.15s ease, border-color 0.15s ease,
+    transform 0.15s ease;
+}
+
+.rot-toc a:hover,
+.rot-toc a:focus-visible {
+  background: var(--green, #339966);
+  border-color: var(--green-dark, #2a7a52);
+  color: #fff !important;
+  transform: translateY(-1px);
+}
+
+.pratica {
+  margin: 0 0 36px;
+  padding: 0;
+  scroll-margin-top: 16px;
+}
+
+.pratica__title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--green-darker, #1f5d3e);
+  margin: 0 0 6px;
+  padding: 14px 16px;
+  background: linear-gradient(90deg, var(--green-soft, #e8f5ef) 0%, transparent 100%);
+  border-left: 4px solid var(--green, #339966);
+  border-radius: var(--radius-sm, 8px) var(--radius-sm, 8px) 0 0;
+  letter-spacing: -0.01em;
+}
+
+.pratica__lead {
+  margin: 0 16px 18px;
+  color: var(--muted, #5e6b66);
+  font-size: 14px;
+  font-style: italic;
+}
+
+.mesa {
+  margin: 0 0 18px;
+  padding: 16px 18px;
+  background: #fafcfb;
+  border: 1px solid var(--border, #e1e7e3);
+  border-radius: var(--radius-sm, 8px);
+}
+
+.mesa__title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--green-dark, #2a7a52);
+  margin: 0 0 10px;
+  padding: 0 0 6px;
+  border-bottom: 1px dashed var(--green-soft-2, #d6efe1);
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.mesa p {
+  font-size: 14px;
+  margin: 0 0 8px;
+}
+
+.mesa ul,
+.mesa ol {
+  margin: 6px 0 10px;
+  padding-left: 22px;
+}
+
+.mesa ul ul,
+.mesa ol ul,
+.mesa ul ol {
+  margin: 4px 0 6px;
+}
+
+.mesa li {
+  margin-bottom: 3px;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.rot-flow {
+  font-family: ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+  background: #f4f7f5;
+  border-left: 3px solid var(--green, #339966);
+  padding: 10px 14px;
+  margin: 6px 0 14px;
+  font-size: 13px;
+  color: var(--text, #1f2a26);
+  border-radius: 4px;
+  white-space: normal;
+  line-height: 1.6;
+}
+
+.rot-footer {
+  margin: 28px 0 0;
+  padding-top: 18px;
+  border-top: 1px solid var(--border, #e1e7e3);
+  text-align: center;
+  font-size: 13px;
+  color: var(--muted, #5e6b66);
+}
+
+.rot-footer a { margin: 0 6px; }
