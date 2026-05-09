@@ -1,0 +1,5 @@
+<li><a class="ponto1" href="#"><span>Joelho do corpo caloso</span></a></li>
+<li><a class="ponto2" href="#"><span>Corno frontal do ventrículo lateral</span></a></li>
+<li><a class="ponto3" href="#"><span>Cíngulo</span></a></li>
+<li><a class="ponto4" href="#"><span>Giro reto</span></a></li>
+<li><a class="ponto5" href="#"><span>Substância branca do pólo frontal</span></a></li>

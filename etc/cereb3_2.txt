@@ -1,0 +1,11 @@
+<li><a class="ponto1" href="#"><span>Pedúnculo cerebelar inferior (corpo restiforme)</span></a></li>
+<li><a class="ponto2" href="#"><span>Pedúnculo cerebelar médio (braços da ponte)</span></a></li>
+<li><a class="ponto3" href="#"><span>Pedúnculo cerebelar superior (braços conjuntivos)</span></a></li>
+<li><a class="ponto4" href="#"><span>Véu medular superior</span></a></li>
+<li><a class="ponto5" href="#"><span>Nódulo</span></a></li>
+<li><a class="ponto6" href="#"><span>Fissura horizontal</span></a></li>
+<li><a class="ponto7" href="#"><span>Lóbulo central</span></a></li>
+<li><a class="ponto8" href="#"><span>Cúlmen</span></a></li>
+<li><a class="ponto9" href="#"><span>Amígdala (tonsila)</span></a></li>
+<li><a class="ponto10" href="#"><span>Úvula</span></a></li>
+<li><a class="ponto11" href="#"><span>Flóculo</span></a></li>

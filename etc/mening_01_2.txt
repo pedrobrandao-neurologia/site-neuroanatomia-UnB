@@ -1,0 +1,12 @@
+<li><a class="ponto1" href="#"><span>Artéria vertebral</span></a></li>
+<li><a class="ponto2" href="#"><span>Artéria basilar</span></a></li>
+<li><a class="ponto3" href="#"><span>A.I.C.A. - Artéria cerebelar ântero-inferior</span></a></li>
+<li><a class="ponto4" href="#"><span>Artéria cerebelar superior</span></a></li>
+<li><a class="ponto5" href="#"><span>Artéria cerebral posterior</span></a></li>
+<li><a class="ponto6" href="#"><span>Artéria comunicante posterior</span></a></li>
+<li><a class="ponto7" href="#"><span>Artéria coroidiana anterior</span></a></li>
+<li><a class="ponto8" href="#"><span>Artéria carótida interna (seccionada)</span></a></li>
+<li><a class="ponto9" href="#"><span>Artéria cerebral anterior</span></a></li>
+<li><a class="ponto10" href="#"><span>Artéria comunicante anterior</span></a></li>
+<li><a class="ponto11" href="#"><span>Artéria cerebral média</span></a></li>
+<li><a class="ponto12" href="#"><span>Artérias lentículo-estriadas</span></a></li>

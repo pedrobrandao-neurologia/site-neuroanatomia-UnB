@@ -1,0 +1,28 @@
+<li><a class="ponto1" href="#"><span>Sulco central (de Rolando)</span></a></li>
+<li><a class="ponto2" href="#"><span>Giro pré-central</span></a></li>
+<li><a class="ponto3" href="#"><span>Giro pós-central</span></a></li>
+<li><a class="ponto4" href="#"><span>Giro frontal superior</span></a></li>
+<li><a class="ponto5" href="#"><span>Giro frontal médio</span></a></li>
+<li><a class="ponto6" href="#"><span>Giro frontal inferior</span></a></li>
+<li><a class="ponto7" href="#"><span>Sulco frontal inferior</span></a></li>
+<li><a class="ponto8" href="#"><span>Sulco frontal superior</span></a></li>
+<li><a class="ponto9" href="#"><span>Sulco lateral (de Sylvius)</span></a></li>
+<li><a class="ponto10" href="#"><span>Giro temporal superior</span></a></li>
+<li><a class="ponto11" href="#"><span>Giro temporal médio</span></a></li>
+<li><a class="ponto12" href="#"><span>Giro temporal inferior</span></a></li>
+<li><a class="ponto13" href="#"><span>Sulco temporal superior</span></a></li>
+<li><a class="ponto14" href="#"><span>Sulco temporal inferior</span></a></li>
+<li><a class="ponto15" href="#"><span>Giro supra-marginal</span></a></li>
+<li><a class="ponto16" href="#"><span>Giro angular</span></a></li>
+<li><a class="ponto17" href="#"><span>Pólo frontal</span></a></li>
+<li><a class="ponto18" href="#"><span>Pólo temporal</span></a></li>
+<li><a class="ponto19" href="#"><span>Pólo occipital</span></a></li>
+<li><a class="ponto20" href="#"><span>Cerebelo</span></a></li>
+<li><a class="ponto21" href="#"><span>Sulco pós-central</span></a></li>
+<li><a class="ponto22" href="#"><span>Sulco pré-central</span></a></li>
+<li><a class="ponto23" href="#"><span>Ramo ascendente do sulco lateral</span></a></li>
+<li><a class="ponto24" href="#"><span>Ramo anterior do sulco lateral</span></a></li>
+<li><a class="ponto25" href="#"><span>Porção triangular do giro frontal inferior</span></a></li>
+<li><a class="ponto26" href="#"><span>Porção opercular do giro frontal inferior</span></a></li>
+<li><a class="ponto27" href="#"><span>Sulco intraparietal</span></a></li>
+<li><a class="ponto28" href="#"><span>Lóbulo parietal superior</span></a></li>

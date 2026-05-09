@@ -1,0 +1,15 @@
+<li><a class="ponto1" href="#"><span>Tronco do corpo caloso</span></a></li>
+<li><a class="ponto2" href="#"><span>Corno frontal ou anterior do ventrículo lateral</span></a></li>
+<li><a class="ponto3" href="#"><span>Cabeça do núcleo caudado</span></a></li>
+<li><a class="ponto4" href="#"><span>Perna anterior da cápsula interna</span></a></li>
+<li><a class="ponto5" href="#"><span>Tálamo</span></a></li>
+<li><a class="ponto6" href="#"><span>Corpo amigdalóide</span></a></li>
+<li><a class="ponto7" href="#"><span>Substância branca do lobo temporal</span></a></li>
+<li><a class="ponto8" href="#"><span>Sulco lateral ou de Sylvius</span></a></li>
+<li><a class="ponto9" href="#"><span>Globo pálido</span></a></li>
+<li><a class="ponto10" href="#"><span>Putâmen</span></a></li>
+<li><a class="ponto11" href="#"><span>Córtex da ínsula</span></a></li>
+<li><a class="ponto12" href="#"><span>Cíngulo</span></a></li>
+<li><a class="ponto13" href="#"><span>Subtância branca do lobo frontal</span></a></li>
+<li><a class="ponto14" href="#"><span>Septo pelúcido</span></a></li>
+<li><a class="ponto15" href="#"><span>III ventrículo</span></a></li>

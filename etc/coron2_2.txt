@@ -1,0 +1,9 @@
+<li><a class="ponto1" href="#"><span>Joelho do corpo caloso</span></a></li>
+<li><a class="ponto2" href="#"><span>Cavum do septo pelúcido</span></a></li>
+<li><a class="ponto3" href="#"><span>Septo pelúcido</span></a></li>
+<li><a class="ponto4" href="#"><span>Corno anterior ou frontal do ventrículo lateral</span></a></li>
+<li><a class="ponto5" href="#"><span>Cabeça do núcleo caudado</span></a></li>
+<li><a class="ponto6" href="#"><span>Perna anterior da cápsula interna</span></a></li>
+<li><a class="ponto7" href="#"><span>Cíngulo</span></a></li>
+<li><a class="ponto8" href="#"><span>Giro reto</span></a></li>
+<li><a class="ponto9" href="#"><span>Sulco olfatório</span></a></li>

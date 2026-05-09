@@ -1,0 +1,13 @@
+<li><a class="ponto1" href="#"><span>Fissura mediana anterior</span></a></li>
+<li><a class="ponto2" href="#"><span>Pirâmide bulbar</span></a></li>
+<li><a class="ponto3" href="#"><span>Forame cego</span></a></li>
+<li><a class="ponto4" href="#"><span>Pedúnculo cerebelar inferior</span></a></li>
+<li><a class="ponto5" href="#"><span>Nervo Trigêmio - V</span></a></li>
+<li><a class="ponto6" href="#"><span>Sulco basilar</span></a></li>
+<li><a class="ponto7" href="#"><span>Nervo facial - VII</span></a></li>
+<li><a class="ponto8" href="#"><span>Nervo vestíbulo-coclear - VIII</span></a></li>
+<li><a class="ponto9" href="#"><span>Plexo coróide (emergindo do forame de Luschka)</span></a></li>
+<li><a class="ponto10" href="#"><span>Pedúnculo cerebelar médio</span></a></li>
+<li><a class="ponto11" href="#"><span>Amígdala cerebelar</span></a></li>
+<li><a class="ponto12" href="#"><span>Fossa interpeduncular</span></a></li>
+<li><a class="ponto13" href="#"><span>Base do pedúnculo cerebral</span></a></li>

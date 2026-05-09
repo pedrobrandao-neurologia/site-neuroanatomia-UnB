@@ -1,0 +1,11 @@
+<li><a class="ponto1" href="#"><span>Túber</span></a></li>
+<li><a class="ponto2" href="#"><span>Pirâmide</span></a></li>
+<li><a class="ponto3" href="#"><span>Úvula</span></a></li>
+<li><a class="ponto4" href="#"><span>Nódulo</span></a></li>
+<li><a class="ponto5" href="#"><span>Véu medular superior</span></a></li>
+<li><a class="ponto6" href="#"><span>Amígdala (tonsila)</span></a></li>
+<li><a class="ponto7" href="#"><span>Pedúnculo cerebelar médio (braços da ponte)</span></a></li>
+<li><a class="ponto8" href="#"><span>Lóbulo central</span></a></li>
+<li><a class="ponto9" href="#"><span>Asas do lóbulo central</span></a></li>
+<li><a class="ponto10" href="#"><span>Flóculo</span></a></li>
+<li><a class="ponto11" href="#"><span>Fissura póstero-lateral</span></a></li>

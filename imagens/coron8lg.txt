@@ -1,0 +1,19 @@
+<li><a class="ponto1" href="#"><span>Corpo do fórnix</span></a></li>
+<li><a class="ponto2" href="#"><span>Septo pelúcido</span></a></li>
+<li><a class="ponto3" href="#"><span>Tronco do corpo caloso</span></a></li>
+<li><a class="ponto4" href="#"><span>Parte central do ventrículo lateral</span></a></li>
+<li><a class="ponto5" href="#"><span>Ângulo lateral do ventrículo lateral</span></a></li>
+<li><a class="ponto6" href="#"><span>Corpo do Núcleo Caudado</span></a></li>
+<li><a class="ponto7" href="#"><span>Perna posterior da cápsula interna</span></a></li>
+<li><a class="ponto8" href="#"><span>Putâmen</span></a></li>
+<li><a class="ponto9" href="#"><span>Globo Pálido</span></a></li>
+<li><a class="ponto10" href="#"><span>III ventrículo</span></a></li>
+<li><a class="ponto11" href="#"><span>Plexo corióide do assoalho da parte central do ventrículo lateral</span></a></li>
+<li><a class="ponto12" href="#"><span>Fissura transversa do cérebro</span></a></li>
+<li><a class="ponto13" href="#"><span>Plexo corióide do teto do III ventrículo</span></a></li>
+<li><a class="ponto14" href="#"><span>Corpo mamilar</span></a></li>
+<li><a class="ponto15" href="#"><span>Formação hipocampal</span></a></li>
+<li><a class="ponto16" href="#"><span>Plexo corióide no teto do corno temporal</span></a></li>
+<li><a class="ponto17" href="#"><span>Corno temporal ou inferior do Ventrículo Lateral</span></a></li>
+<li><a class="ponto18" href="#"><span>Giro do cíngulo</span></a></li>
+<li><a class="ponto19" href="#"><span>Sulco Lateral de Sylvius</span></a></li>

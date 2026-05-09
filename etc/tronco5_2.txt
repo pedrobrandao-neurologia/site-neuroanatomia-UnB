@@ -1,0 +1,8 @@
+<li><a class="ponto1" href="#"><span>Base do pedúnculo cerebral</span></a></li>
+<li><a class="ponto2" href="#"><span>Substância negra</span></a></li>
+<li><a class="ponto3" href="#"><span>Tegmento do mesencéfalo</span></a></li>
+<li><a class="ponto4" href="#"><span>Aqueduto cerebral ou Canal de Sylvius</span></a></li>
+<li><a class="ponto5" href="#"><span>Tecto do mesencéfalo</span></a></li>
+<li><a class="ponto6" href="#"><span>Fossa interpeduncular</span></a></li>
+<li><a class="ponto7" href="#"><span>Sulco medial do pedúnculo cerebral</span></a></li>
+<li><a class="ponto8" href="#"><span>Sulco lateral do mesencéfalo</span></a></li>

@@ -1,0 +1,11 @@
+<li><a class="ponto1" href="#"><span>Lóbulo central</span></a></li>
+<li><a class="ponto2" href="#"><span>Cúlmen</span></a></li>
+<li><a class="ponto3" href="#"><span>Declive</span></a></li>
+<li><a class="ponto4" href="#"><span>Folium</span></a></li>
+<li><a class="ponto5" href="#"><span>Fissura prima</span></a></li>
+<li><a class="ponto6" href="#"><span>Fissura pós-clival</span></a></li>
+<li><a class="ponto7" href="#"><span>Fissura horizontal</span></a></li>
+<li><a class="ponto8" href="#"><span>Lóbulo semilunar superior</span></a></li>
+<li><a class="ponto9" href="#"><span>Lóbulo semilunar inferior</span></a></li>
+<li><a class="ponto10" href="#"><span>Lóbulo quadrangular anterior</span></a></li>
+<li><a class="ponto11" href="#"><span>Lóbulo quadrangular posterior</span></a></li>
