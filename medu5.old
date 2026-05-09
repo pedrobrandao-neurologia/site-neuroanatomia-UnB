@@ -1,0 +1,240 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Medula, imagem 5</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css" src="estilo.css"></style>
+
+<style type="text/css">
+ul { /*a área do menu*/
+position:relative; /*contexto de posicionamento*/
+/*retira bullets da lista*/
+padding:0; 
+margin:0;  
+  
+/*dimensões da área do menu*/
+width:493px; 
+height:625px;
+  
+/*Posicionando a imagem*/
+background: url('imagens/medu5.jpg') no-repeat 0px 0px;; list-style-type:none 
+}
+/*As regras para a (âncora) criam o efeito visual
+para os bullets sobre o crânio, 
+são os pontos clicáveis*/
+a {
+position:absolute;
+display:block;
+text-decoration:none;
+text-align:center;
+color:red;
+border:3px solid red;/*simula o 
+quadradinho */
+}
+/*As regras a seguir posicionam os 
+bullets sobre o crânio*/
+a.ponto1{
+top:240px;
+left:230px;
+}
+a.ponto2{
+top:8px;
+left:221px;
+}
+a.ponto3{
+top:258px;
+left:173px;
+}
+a.ponto4{
+top:143px;
+left:254px;
+}
+a.ponto5{
+top:140px;
+left:77px;
+}
+a.ponto6{
+top:191px;
+left:222px;
+}
+a.ponto7{
+top:191px;
+left:283px;
+}
+a.ponto8{
+top:150px;
+left:166px;
+}
+a.ponto9{
+top:215px;
+left:174px;
+}
+a.ponto10{
+top:186px;
+left:314px;
+}
+a.ponto11{
+top:21px;
+left:125px;
+}
+a.ponto12{
+top:34px;
+left:251px;
+}
+a.ponto13{
+top:35px;
+left:145px;
+}
+a.ponto14{
+top:10px;
+left:165px;
+}
+a.ponto15{
+top:48px;
+left:170px;
+}
+a span {display:none} /*esconde caixa tooltip*/
+
+/*mostra e estiliza a caixa tooltip*/
+a.ponto1:hover span, a.ponto2:hover span,  
+a.ponto3:hover span, a.ponto4:hover span,  
+a.ponto5:hover span,  a.ponto6:hover span,
+a.ponto7:hover span, a.ponto8:hover span,
+a.ponto9:hover span, a.ponto10:hover span,
+a.ponto11:hover span, a.ponto12:hover span,
+a.ponto13:hover span, a.ponto14:hover span,
+a.ponto15:hover span { 
+width:160px; 
+display:block;
+position:absolute;
+font:11px arial, verdana, helvetica, sans-serif; 
+text-align:center;
+padding:5px; 
+border:1px solid #06c;
+background:#fff; 
+color:#000;
+text-decoration:none;
+}
+/*box model para browsers conformes*/
+li>a.ponto1:hover span, li>a.ponto2:hover span,  
+li>a.ponto3:hover span, li>a.ponto4:hover span,  
+li>a.ponto5:hover span,  li>a.ponto6:hover span,
+li>a.ponto7:hover span, li>a.ponto8:hover span,
+li>a.ponto9:hover span, li>a.ponto10:hover span,
+li>a.ponto11:hover span, li>a.ponto12:hover span,
+li>a.ponto13:hover span, li>a.ponto14:hover span,
+li>a.ponto15:hover span { 
+width:148px;
+}
+/*posiciona as caixas tooltip*/
+a.ponto1:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto2:hover { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto3:hover {
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto4:hover { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto5:hover { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto6:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto7:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto8:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto9:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto10:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto11:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto12:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto13:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto14:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+a.ponto15:hover  { 
+border:none;
+top:5px;
+left:5px;
+}
+/*estiliza o título do menu*/
+.titulo h1 {
+position:absolute;
+right:8px;
+top:-10px;
+font:bold 14px verdana, arial, helvetica, sans-serif; 
+color:green;
+background:none;
+border:none;
+}
+</style>
+</head>
+
+<body>
+<center><ul>
+<li><a class="ponto1" href="#"><span>Fissura mediana anterior</span></a></li>
+<li><a class="ponto2" href="#"><span>Sulco mediano posterior</span></a></li>
+<li><a class="ponto3" href="#"><span>Funículo anterior</span></a></li>
+<li><a class="ponto4" href="#"><span>Funículo posterior</span></a></li>
+<li><a class="ponto5" href="#"><span>Funículo lateral</span></a></li>
+<li><a class="ponto6" href="#"><span>Substância cinzenta intermédia central</span></a></li>
+<li><a class="ponto7" href="#"><span>Substância cinzenta intermédia lateral</span></a></li>
+<li><a class="ponto8" href="#"><span>Coluna posterior (Corno posterior)</span></a></li>
+<li><a class="ponto9" href="#"><span>Coluna anterior (Corno anterior)</span></a></li>
+<li><a class="ponto10" href="#"><span>Coluna lateral (Corno lateral)</span></a></li>
+<li><a class="ponto11" href="#"><span>Sulco lateral posterior</span></a></li>
+<li><a class="ponto12" href="#"><span>Fascículo grácil</span></a></li>
+<li><a class="ponto13" href="#"><span>Fascículo cuneiforme</span></a></li>
+<li><a class="ponto14" href="#"><span>Sulco intermédio posterior</span></a></li>
+<li><a class="ponto15" href="#"><span>Septo intermédio posterior</span></a></li>
+
+
+</ul></center>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+menu principal
+  <div id="bodyblock" align="right"> 
+    <div id="l-col" align="right"> <font style="LINE-HEIGHT: 100%; TEXT-ALIGN: right"> 
+      <h4 align="center">&nbsp;</h4>
+      <a class="item" href="apresent.htm">Apresentação</a><br >
+      <a class="item" href="medu.htm">Medula Espinhal</a><br >
+      <a class="item" href="medu_le.htm">Síndromes medulares</a><br >
+      <a class="item" href="tron.htm">Tronco Encefálico</a><br >
+      <a class="item" href="cereb.htm">Cerebelo</a><br >
+      <font style="LINE-HEIGHT: 100%; TEXT-ALIGN: right"> 
+      <a class="item" href="dien.htm">Diencéfalo e<br>Núcleos da Base</a></font><br >
+      <a class="item" href="ctx.htm">Córtex cerebral</a><br >
+      <a class="item" href="mening.htm">Vascularização do SNC e Meninges</a><br >
+      <a class="item" href="rot.htm">Roteiro das<br>aulas práticas</a><br >
+      <a class="item" href="teor.htm">Aulas Teóricas</a><br >
+      <a class="item" href="neuropat.htm">Neuropatologia</a><br >
+      <a class="item" href="neuroimg.htm">Neuroimagem</a><br >
+      <a class="item" href="links.htm">Links</a><br >
+      <a class="item" href="notas.htm">Notas</a><br >
+      <a class="item" href="autores.htm">Autores</a><br >
+      <br >
+      </font> </div>
+    <div id="cont"> 

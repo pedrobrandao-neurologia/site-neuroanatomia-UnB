@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+
+  
+  
+  <title>Atlas de Neuroanatomia da Faculdade de Medicina da Universidade de Bras&iacute;lia</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+
+  
+  <meta name="Robots" content="NOINDEX" />
+
+
+  
+  <meta http-equiv="PRAGMA" content="NO-CACHE" />
+
+  
+  <link rel="stylesheet" type="text/css" href="layout.css" />
+
+
+    <SCRIPT SRC="posicao.js"></SCRIPT>
+  <link rel="stylesheet" type="text/css" href="estilo.css" />
+</head>
+
+
+<body>
+
+
+<div id="outer">
+  <div id="hdr" align="center"><span style="text-decoration: underline;">
+    <img src="simbolo2.jpg" alt="" align="left" style="width: 124px; height: 60px;" /><img src="nome.jpg" alt="" align="left" style="height: 59px; width: 519px;" /></span><a href="http://www.ssi-developer.net/" title="Go to main page."><br />
+
+</a></div>
+
+
+  <div style="text-align: center;" id="bar"><span style="padding: 0px; font-size: 11px;">174025 
+    Neuroanatomia M&eacute;dica - Dep. de Morfologia - FMD/UnB</span></div>
+
+
+  <div id="bodyblock" align="right"> 
+    <div id="l-col" align="right"> <font style="line-height: 100%; text-align: right;"> 
+      <h4 align="center">&nbsp;</h4>
+      <a class="item" href="apresent.htm">Apresentação</a><br />
+      <a class="item" href="medu.htm">Medula Espinhal</a><br />
+      <a class="item" href="medu_le.htm">Medula - Lesões</a><br />
+      <a class="item" href="tron.htm">Tronco Encefálico</a><br />
+      <a class="item" href="cereb.htm">Cerebelo</a><br />
+      <a class="item" href="dien.htm">Diencéfalo</a><br />
+      <a class="item" href="nbase.htm">Núcleos da base e Ventrículos Laterais</a><br />
+      <a class="item" href="ctx.htm">Córtex cerebral</a><br />
+      <a class="item" href="mening.htm">Vascularização do SNC e Meninges</a><br />
+      <a class="item" href="rot.htm">Roteiro das aulas</a><br />
+      <a class="item" href="teor.htm">Aulas Teóricas</a><br />
+      <a class="item" href="neuropat.htm">Neuropatologia</a><br />
+      <a class="item" href="neuroimg.htm">Neuroimagem</a><br />
+      <a class="item" href="links.htm">Links</a><br />
+      <a class="item" href="notas.htm">Notas</a><br />
+      <a class="item" href="autores.htm">Autores</a><br />
+      <br />
+      </font> </div>
+    <div id="cont" style="width: 494; height: 303"> 
+
+<h3 style="text-align: center">&nbsp;</h3>
+
+<h3 style="text-align: center">Medula espinhal - imagens</h3>
+
+      <div align="center">
+        <center>
+        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="88%" id="AutoNumber1" bgcolor="#FFFFFF" height="165">
+          <tr>
+            <td width="36%" height="76">
+            <p align="center">
+            <a class="thumb" href="javascript:abre('medu8.htm','Medu8','352','539','no');">
+            <img border="0" src="thumbnails/medu8.jpg" width="31" height="50"></a><p align="left" style="text-indent: 0">
+            1. Medula espinhal fetal dentro do canal raquiano - Corte sagital 
+            mediano</td>
+            <td width="33%" height="76" valign="top">
+            <p align="center">
+            <a href="javascript:abre('medu2.htm','Medu2','370','500','no');" class="thumb">
+            <img border="0" src="thumbnails/medu2.jpg" width="37" height="50"></a><p align="left">
+            2. Cauda eqüína</td>
+            <td width="34%" height="76">
+            <p align="center">
+            <a href="javascript:abre('medu3.htm','Medu3','390','550','no');" class="thumb">
+<img border="0" src="thumbnails/medu3.jpg" width="33" height="50"></a><p align="left" style="text-indent: 0">
+            3. Medula espinhal dentro do canal raquiano - Espaço epidural e seus 
+            conteúdos</td>
+          </tr>
+          <tr>
+            <td width="36%" height="50">
+            <p align="center"><a href="javascript:abre('medu1.htm','Medu1','390','550','no');" class="thumb">
+            <img border="0" src="thumbnails/medu1.jpg" width="33" height="50" ></a><p style="text-indent: 0">
+            4. Medula espinhal fora do canal raquiano exposta após abertura da 
+            dura-máter</td>
+            <td width="33%" height="50">
+            <p align="center">
+            <a class="thumb" href="javascript:abre('medu9.htm','Medu9','323','633','no');">
+            <img border="0" src="thumbnails/medu9.jpg" width="30" height="60"></a><p align="left" style="text-indent: 0">
+            5. Superfície anterior da medula espinhal após retirada da aracnóide</td>
+            <td width="34%" height="50">
+            <p align="center">
+            <a class="thumb" href="javascript:abre('medu10.htm','Medu10','335','647','no');">
+            <img border="0" src="thumbnails/medu10.jpg" width="30" height="60"></a><p align="left" style="text-indent: 0">
+            6. Superfície posterior da medula espinhal</td>
+          </tr>
+          <tr>
+            <td width="36%" height="39">
+            <p align="center">
+            <a href="javascript:abre('medu4.htm','Medu4','451','297','no');" class="thumb">
+            <img border="0" src="thumbnails/medu4.jpg" width="60" height="39" ></a><p align="left" style="text-indent: 0">
+            7. Corte transversal de medula espinhal cervical</td>
+            <td width="33%" height="39">
+            <p align="center">
+            <a href="javascript:abre('medu5.htm','Medu5','475','305','no');" class="thumb">
+            <img border="0" src="thumbnails/medu5.jpg" width="60" height="37" ></a><p align="left" style="text-indent: 0">
+            8. Corte transversal de medula espinhal torácica</td>
+            <td width="34%" height="39">
+            <p align="center">
+            <a class="thumb" href="javascript:abre('medu6.htm','Medu6','460','331','no');">
+            <img border="0" src="thumbnails/medu6.jpg" width="60" height="42" ></a><p align="left" style="text-indent: 0">
+            9. Corte transversal de medula espinhal lombar</td>
+          </tr>
+          <tr>
+            <td width="36%" height="39">
+            <p align="center">
+            <a class="thumb" href="javascript:abre('medu7.htm','Medu7','376','297','no');">
+            <img border="0" src="thumbnails/medu7.jpg" width="60" height="46" ></a><p align="justify" style="text-indent: 0">
+            10. Corte transversal da medula espinhal em nível sacral</td>
+            <td width="33%" height="39">&nbsp;</td>
+            <td width="34%" height="39">&nbsp;</td>
+          </tr>
+        </table>
+        </center>
+</div>
+&nbsp;<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+
+      <br />
+    </div>
+  </div>
+
+
+<div id="ftr" align="center"><span style="padding: 0px;"><a href="http://www.unb.br" class="rodape">Portal UnB</a>   -   
+<a href="http://www.unb.br/fm" class="rodape">FMD</a> - <a href="http://www.hub.unb.br" class="rodape">HUB</a></span><p>
+  <font face="Verdana, Arial, Helvetica, sans-serif" color="#333333" size="1">
+  Copyright © 2006 - Departamento de Morfologia - Faculdade de Medicina - UnB</font></div>
+
+
+</div>
+
+
+
+</body>
+</html>

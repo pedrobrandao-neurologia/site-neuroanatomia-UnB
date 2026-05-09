@@ -1,0 +1,581 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+<head>
+
+<title>Córtex cerebral - vista superior
+
+</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<style type="text/css" src="estilo.css"></style>
+
+
+
+<style type="text/css">
+
+ul { /*a área do menu*/
+
+position:relative; /*contexto de posicionamento*/
+
+/*retira bullets da lista*/
+
+padding:0; 
+
+margin:0;  
+
+  
+
+/*dimensões da área do menu*/
+
+width:525px; 
+
+height:700px;
+
+  
+
+/*Posicionando a imagem*/
+
+background: url('imagens/ctx_09.jpg') no-repeat 0px 0px;; list-style-type:none 
+
+}
+
+/*As regras para a (âncora) criam o efeito visual
+
+para os bullets sobre o crânio, 
+
+são os pontos clicáveis*/
+
+a {
+
+position:absolute;
+
+display:block;
+
+text-decoration:none;
+
+text-align:center;
+
+color:red;
+
+border:3px solid red;/*simula o 
+
+quadradinho */
+
+}
+
+/*As regras a seguir posicionam os 
+
+bullets sobre o crânio*/
+a.ponto1{
+top:104px;
+left:261px;
+}
+a.ponto2{
+top:641px;
+left:340px;
+}
+a.ponto3{
+top:38px;
+left:288px;
+}
+a.ponto4{
+top:477px;
+left:250px;
+}
+a.ponto5{
+top:195px;
+left:179px;
+}
+a.ponto6{
+top:301px;
+left:408px;
+}
+a.ponto7{
+top:349px;
+left:392px;
+}
+a.ponto8{
+top:156px;
+left:304px;
+}
+a.ponto9{
+top:173px;
+left:386px;
+}
+a.ponto10{
+top:192px;
+left:430px;
+}
+a.ponto11{
+top:334px;
+left:444px;
+}
+a.ponto12{
+top:178px;
+left:362px;
+}
+a.ponto13{
+top:180px;
+left:412px;
+}
+a.ponto14{
+top:269px;
+left:390px;
+}
+a.ponto15{
+top:368px;
+left:411px;
+}
+
+
+
+a span {display:none} /*esconde caixa tooltip*/
+
+
+
+/*mostra e estiliza a caixa tooltip*/
+
+a.ponto1:hover span, a.ponto2:hover span,  
+
+a.ponto3:hover span, a.ponto4:hover span,  
+
+a.ponto5:hover span,  a.ponto6:hover span,
+
+a.ponto7:hover span, a.ponto8:hover span,
+
+a.ponto9:hover span, a.ponto10:hover span,
+
+a.ponto11:hover span, a.ponto12:hover span,
+
+a.ponto13:hover span, a.ponto14:hover span,
+
+a.ponto15:hover span, a.ponto16:hover span,
+
+a.ponto17:hover span, a.ponto18:hover span,
+
+a.ponto19:hover span, a.ponto20:hover span,
+
+a.ponto21:hover span, a.ponto22:hover span,
+
+a.ponto23:hover span, a.ponto24:hover span,
+
+a.ponto25:hover span, a.ponto26:hover span,
+
+a.ponto27:hover span, a.ponto28:hover span { 
+
+width:160px; 
+
+display:block;
+
+position:absolute;
+
+font:11px arial, verdana, helvetica, sans-serif; 
+
+text-align:center;
+
+padding:5px; 
+
+border:1px solid #06c;
+
+background:#fff; 
+
+color:#000;
+
+text-decoration:none;
+
+}
+
+/*box model para browsers conformes*/
+
+li>a.ponto1:hover span, li>a.ponto2:hover span,  
+
+li>a.ponto3:hover span, li>a.ponto4:hover span,  
+
+li>a.ponto5:hover span,  li>a.ponto6:hover span,
+
+li>a.ponto7:hover span, li>a.ponto8:hover span,
+
+li>a.ponto9:hover span, li>a.ponto10:hover span,
+
+li>a.ponto11:hover span, li>a.ponto12:hover span,
+
+li>a.ponto13:hover span, li>a.ponto14:hover span,
+
+li>a.ponto15:hover span, li>a.ponto16:hover span,
+
+li>a.ponto17:hover span, li>a.ponto18:hover span,
+
+li>a.ponto19:hover span, li>a.ponto20:hover span,
+
+li>a.ponto21:hover span, li>a.ponto22:hover span,
+
+li>a.ponto23:hover span, li>a.ponto24:hover span,
+
+li>a.ponto25:hover span, li>a.ponto26:hover span,
+
+li>a.ponto27:hover span, li>a.ponto28:hover span { 
+
+width:148px;
+
+}
+
+/*posiciona as caixas tooltip*/
+
+a.ponto1:hover  { 
+
+border:none;
+
+top:300px;
+
+left:300px;
+
+}
+
+a.ponto2:hover { 
+
+border:none;
+
+
+top:300px;
+
+left:300px;
+
+}
+
+a.ponto3:hover {
+
+border:none;
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto4:hover { 
+
+border:none;
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto5:hover { 
+
+border:none;
+
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto6:hover  { 
+
+border:none;
+
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto7:hover  { 
+
+border:none;
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto8:hover  { 
+
+border:none;
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto9:hover  { 
+
+border:none;
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto10:hover  { 
+
+border:none;
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto11:hover  { 
+
+border:none;
+
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto12:hover  { 
+
+border:none;
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto13:hover  { 
+
+border:none;
+
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto14:hover  { 
+
+border:none;
+
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto15:hover  { 
+
+border:none;
+
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto16:hover  { 
+
+border:none;
+
+top:300px;
+
+left:300px;
+
+
+}
+
+a.ponto17:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto18:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto19:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto20:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto21:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto22:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto23:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto24:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto25:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto26:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto27:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+a.ponto28:hover  { 
+
+border:none;
+
+top:5px;
+
+left:5px;
+
+}
+
+/*estiliza o título do menu*/
+
+.titulo h1 {
+
+position:absolute;
+
+right:8px;
+
+top:-10px;
+
+font:bold 14px verdana, arial, helvetica, sans-serif; 
+
+color:green;
+
+background:none;
+
+border:none;
+
+}
+
+</style>
+
+</head>
+
+
+
+<body>
+
+<center><ul>
+
+
+<li><a class="ponto1" href="#"><span>Fissura inter-hemisférica</span></a></li>
+<li><a class="ponto2" href="#"><span>Pólo occipital</span></a></li>
+<li><a class="ponto3" href="#"><span>Pólo frontal</span></a></li>
+<li><a class="ponto4" href="#"><span>Granulações aracnóides</span></a></li>
+<li><a class="ponto5" href="#"><span>Veias cerebrais superficiais no espaço subaracnóide</span></a></li>
+<li><a class="ponto6" href="#"><span>Giro pré-central</span></a></li>
+<li><a class="ponto7" href="#"><span>Giro pós-central</span></a></li>
+<li><a class="ponto8" href="#"><span>Giro frontal superior</span></a></li>
+<li><a class="ponto9" href="#"><span>Giro frontal médio</span></a></li>
+<li><a class="ponto10" href="#"><span>Giro frontal inferior</span></a></li>
+<li><a class="ponto11" href="#"><span>Sulco central (de Rolando)</span></a></li>
+<li><a class="ponto12" href="#"><span>Sulco frontal superior</span></a></li>
+<li><a class="ponto13" href="#"><span>Sulco frontal inferior</span></a></li>
+<li><a class="ponto14" href="#"><span>Sulco pré-central</span></a></li>
+<li><a class="ponto15" href="#"><span>Sulco pós-central</span></a></li>
+
+</ul></center>
+
+
+
+</body>
+
+</html>
